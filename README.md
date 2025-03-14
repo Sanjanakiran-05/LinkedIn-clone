@@ -3,8 +3,8 @@
 This project is a LinkedIn UI clone built using HTML, CSS, and Bootstrap. The goal was to replicate the core structure and design of LinkedIn’s interface while focusing on responsiveness and clean UI/UX principles.
 
 ## Technologies Used
-HTML 
-CSS 
+HTML, 
+CSS, 
 Bootstrap 
 
 ## How to Run the Project
